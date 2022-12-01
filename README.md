@@ -8,6 +8,8 @@
 
 ![vinicius-rosa-magio GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-rosa-magio&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rosa-magio&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style='display: inline_block'><br/>
@@ -18,6 +20,4 @@
     <img align='center' alt='Bootstrap' src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
 </div><br/>
 
-
 Apaixonado por tecnologia, com muita vontade de aprender e fazer novas amizades. 
-
