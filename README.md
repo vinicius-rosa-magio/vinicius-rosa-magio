@@ -21,3 +21,8 @@
 </div><br/>
 
 Apaixonado por tecnologia, com muita vontade de aprender e fazer novas amizades. 
+
+## Contatos:
+Email: viniciusrosamagio@gmail.com
+
+WhatsApp: (24)998196722
